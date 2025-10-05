@@ -4,7 +4,7 @@ Copyright (c) 2025 [Carlos Fernando Martínez Martínez]
 
 Todos los derechos reservados.
 
-Este software y su código fuente son propiedad de [Tu Nombre] 
+Este software y su código fuente son propiedad de [Carlos Fernando Martínez Martínez] 
 y se proporcionan únicamente con fines de demostración y revisión.
 
 SE PROHÍBE EXPRESAMENTE:
@@ -14,3 +14,87 @@ SE PROHÍBE EXPRESAMENTE:
 - Cualquier otro uso sin autorización por escrito del autor
 
 Para solicitar permisos de uso, contactar: [zerotatomic@gmail.com]
+----------------------------------------------------------------------------------------------------------------------------------
+Inglés (English)
+PROPRIETARY SOFTWARE LICENSE
+
+Copyright (c) 2025 [Carlos Fernando Martínez Martínez]
+
+All rights reserved.
+
+This software and its source code are the property of [Carlos Fernando Martínez Martínez] and are provided for demonstration and review purposes only.
+
+EXPRESSLY PROHIBITED:
+
+Copying, modifying, or distributing the code
+
+Commercial use
+
+Production implementation
+
+Any other use without the written authorization of the author
+
+To request usage permissions, contact: [zerotatomic@gmail.com]
+----------------------------------------------------------------------------------------------------------------------------------
+Francés (Français)
+LICENCE DE LOGICIEL PROPRIÉTAIRE
+
+Copyright (c) 2025 [Carlos Fernando Martínez Martínez]
+
+Tous droits réservés.
+
+Ce logiciel et son code source sont la propriété de [Carlos Fernando Martínez Martínez] et sont fournis uniquement à des fins de démonstration et de révision.
+
+EXPRESSÉMENT INTERDIT :
+
+La copie, la modification ou la distribution du code
+
+L'utilisation commerciale
+
+L'implémentation en production
+
+Toute autre utilisation sans l'autorisation écrite de l'auteur
+
+Pour demander des autorisations d'utilisation, contacter : [zerotatomic@gmail.com]
+----------------------------------------------------------------------------------------------------------------------------------
+Alemán (Deutsch)
+PROPRIETÄRE SOFTWARE-LIZENZ
+
+Copyright (c) 2025 [Carlos Fernando Martínez Martínez]
+
+Alle Rechte vorbehalten.
+
+Diese Software und ihr Quellcode sind Eigentum von [Carlos Fernando Martínez Martínez] und werden ausschließlich zu Demonstrations- und Überprüfungszwecken bereitgestellt.
+
+AUSDRÜCKLICH UNTERSAGT:
+
+Das Kopieren, Modifizieren oder Verteilen des Codes
+
+Die kommerzielle Nutzung
+
+Die Implementierung in der Produktion
+
+Jede andere Nutzung ohne schriftliche Genehmigung des Autors
+
+Um Nutzungsgenehmigungen zu beantragen, kontaktieren Sie: [zerotatomic@gmail.com]
+----------------------------------------------------------------------------------------------------------------------------------
+Chino Simplificado (简体中文)
+专有软件许可证
+
+版权所有 (c) 2025 [Carlos Fernando Martínez Martínez]
+
+保留所有权利。
+
+本软件及其源代码为 [Carlos Fernando Martínez Martínez] 的财产，仅用于演示和审查目的。
+
+严禁事项：
+
+复制、修改或分发代码
+
+商业用途
+
+生产实施
+
+未经作者书面授权的任何其他用途
+
+如需申请使用权限，请联系：[zerotatomic@gmail.com]
