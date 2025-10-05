@@ -1,0 +1,16 @@
+LICENCIA DE SOFTWARE PROPIETARIO
+
+Copyright (c) 2025 [Carlos Fernando Martínez Martínez]
+
+Todos los derechos reservados.
+
+Este software y su código fuente son propiedad de [Tu Nombre] 
+y se proporcionan únicamente con fines de demostración y revisión.
+
+SE PROHÍBE EXPRESAMENTE:
+- La copia, modificación o distribución del código
+- El uso comercial
+- La implementación en producción
+- Cualquier otro uso sin autorización por escrito del autor
+
+Para solicitar permisos de uso, contactar: [zerotatomic@gmail.com]
